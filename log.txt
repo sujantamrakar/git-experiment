@@ -2,3 +2,4 @@ Facts about Nepal
 Area : 147,181 sq.km
 Currency: Nepali Rupees Rs
 Driving Side: left
+Calling Code: +977
