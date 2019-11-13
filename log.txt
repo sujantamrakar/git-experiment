@@ -4,3 +4,4 @@ Currency: Nepali Rupees Rs
 Driving Side: left
 Calling Code: +977
 Internet TLD: .np
+Hobbie: Guitar
