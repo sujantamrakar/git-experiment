@@ -5,3 +5,4 @@ Driving Side: left
 Calling Code: +977
 Internet TLD: .np
 Hobbie: Guitar
+Food: Pizza
